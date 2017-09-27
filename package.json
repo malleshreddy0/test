@@ -1,0 +1,21 @@
+{
+  "name": "parse-node-project",
+  "version": "0.0.0",
+  "private": true,
+   "scripts": {
+    "start": "node manager.js"
+  },
+  "dependencies": {
+    "cron": "^1.2.1",
+    "moment": "~2.18.1",
+    "mongoose": "^4.11.10",
+    "node-cron": "^1.2.1",
+    "parse": "~1.9.2",
+    "parse-server": "^2.6.1",
+    "path": "^0.12.7",
+    "request": "~2.81.0",
+    "soap": "^0.21.0",
+    "strong-soap": "^1.2.6"
+  }
+}
+
